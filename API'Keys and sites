@@ -1,0 +1,18 @@
+API Keys.
+
+-----LTA-----
+
+AccountKey: SFtHKwbETzi/0lasguUW5g==
+accept: application/json
+
+//Bus Stops//
+
+http://datamall2.mytransport.sg/ltaodataservice/BusStops
+
+//Bus Timings//
+
+http://datamall2.mytransport.sg/ltaodataservice/BusArrivalv2?BusStopCode=(Insert Bus Stop Code here)&ServiceNo=(Insert Bus number here)
+*Note that the bus number (ServiceNo) is not necessary here. The bus stop code is.
+
+
+

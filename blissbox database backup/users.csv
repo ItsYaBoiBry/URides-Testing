@@ -1,0 +1,37 @@
+"id","role_id","company_id","title","first_name","last_name","email","date_of_birth","designation","country","phone","postal_code","password","activation_code","activation_status","remember_token","deleted_at","created_at","updated_at"
+"60","1",\N,"mr","Paola","Giannotti","paola.giannotti.mail@gmail.com",\N,\N,"65","83586495","089692","$2y$10$s.HUdXs/e3smDSTjM8b5C.6rLRlRAuBOF0IMqYiw7GGET16Dxiyre",\N,\N,\N,\N,\N,\N
+"61","1",\N,"mr","Michel","Saliba","michelsaliba@free.fr",\N,\N,"65","84490444","123456","$2y$10$.a.v1cxaYlmzARDZgoTDkOr8.okuq.k9JCJnQbyrkgO3RfFSh/dBm",\N,\N,"OnxTOV35e4rHYpruNtSUtJkVgPt7GCQ8C6odoFZKEu6VUC1zf0VQOYSWp8Td",\N,\N,\N
+"62","1",\N,"miss","Soh","Sammie","sammiesoh@gmail.com",\N,\N,"65","96701716","822310","$2y$10$aWzcKR2TxrIEfKgCqnHo/eECi8uLZYAFSyZuSI291dBtgs70ET04W",\N,\N,\N,\N,\N,\N
+"63","1",\N,"miss","jennifer","kwek","jfaylinn@gmail.com",\N,\N,"65","97923408","529865","$2y$10$3UvtgtNDdSDdJY7RJAxcienKB0Di5QTqD1RWpgTQhsNOrC/1JnImi",\N,\N,\N,\N,\N,\N
+"64","1",\N,"miss","Michelle","Flynn","bluenosemichelle@googlemail.com",\N,\N,"65","07949964964","PE22 8AE","$2y$10$Oz5P.aP5WlLn3hZMOp3LSesnaGfJexW/iv4I9.8WDMJXL8Q9dD9o6",\N,\N,\N,\N,\N,\N
+"65","1",\N,"mr","Bryan","Low","15017569@myrp.edu,sg",\N,\N,"65","94511958",\N,\N,"$2y$10$VhziQmpIcq5EPWEk0cb2yualXXJFK3H/7IyxUX.2kMo8BhINozHXe","0",\N,\N,\N,\N
+"66","1",\N,"mr","Edwin","Sim","aideyinsim@hotmail.com",\N,\N,"65","81821708","321105","$2y$10$w1wNGRyN3S0dQKuiH8iWPOr5zbH/PsV0T.nQxEeorfAMbAJ/K3WwW",\N,\N,\N,\N,\N,\N
+"67","1",\N,"ms","Hwee Hoon","Khng","hydrogen2@hotmail.com",\N,\N,"65","93639461","163126","$2y$10$s0o0VSls8NqVfeFBiZaaM.IA9jnnqWHKwwCYN3uzZWg7t.EqTKjYS",\N,\N,\N,\N,\N,\N
+"68","1",\N,"ms","Eline","See","elinesee@me.com",\N,\N,"65","98280010","479276","$2y$10$meKsk7jKLQkA1vDrBTdsCOGTKhL6mkHAelr.77kesPQG6JOOUKCdS",\N,\N,\N,\N,\N,\N
+"69","1",\N,"miss","Miriam","Rahaman","miriamrahaman1110@gmail.com",\N,\N,"65","84624452","670474","$2y$10$bXyvEpgnId8YFTkXnTgT1.MQuTG/ZlqbUq9m038oIxUa6C06NCQCi",\N,\N,"yFaLkLMgYLBKvy9w6FMTEpEHCpWDje0ccqCZKcyr1m9KKeVnqDPLHi0cAQay",\N,\N,\N
+"70","1",\N,\N,"Alvin","Tan","alvin@gmail.com",\N,\N,"65","89889798",\N,\N,"$2y$10$vcieVqb481D1By6YqJzXU.rAOI6W5alWmxeUIVgeQAhRRuhPlcmnq","0",\N,\N,\N,\N
+"71","1",\N,"ms","Virginia","Brumby","virginiabrumby@gmail.com",\N,\N,"65","83831492","229113","$2y$10$JabM8wPkVX6LiYFheFegJem45uh8pZ6ihA7feMyNvauiS330.09zK",\N,\N,\N,\N,\N,\N
+"72","1",\N,"mr","Hideyuki","Yanaka","hyanaka@rwsentosa.com",\N,\N,"65","97332504","308092","$2y$10$DJXVpNlXJlGgXwj/Sv4R0.F.OqHITBz8dcytHYAl77juCLkBLgt3y",\N,\N,\N,\N,\N,\N
+"73","1",\N,"miss","Yilin","Gan","splendido.vi@gmail.com",\N,\N,"65","91299990","650216","$2y$10$G3COtnm8IhNrcWTpguEz4er6ywMZ2csqRAEEoqgMA6T1FueQSiODq",\N,\N,\N,\N,\N,\N
+"74","1",\N,"mr","Wee Hong","Koh","weehongkaneusual@gmail.com",\N,\N,"65","84013319","163023","$2y$10$gntXuhy5rAfV7joiL3yKX.JsM1bVuF0/3FimNr2blGpOY4cEfGXb6",\N,\N,\N,\N,\N,\N
+"75","1",\N,"mr","hideyuki","yanaka","hidey.yanaka@rwsentosa.com",\N,\N,"65","97332504","098269","$2y$10$gMgOD2CHl8UHdwpX2/itvu6yWSNYk/GNpfUeSyQV2Yf9dOUJuJ.6u",\N,\N,\N,\N,\N,\N
+"76","1",\N,"mr","Bryan","Low","bryanlow987@gmail.com",\N,\N,"65","94511958","520279","$2y$10$lK6GXCnoUtQkBrGJ3ZlYlexLMCAB90LRgZV2sK0h7rAmvuKdO5j8O",\N,\N,"HNrWzWxnnWgvGf42uk27QtVeEo7gqvcuxobWTfa7qwit7fuhsMBO4cxZB7Po",\N,\N,\N
+"77","1",\N,"ms","Welen alexis","Choon","welenalexis@yahoo.fom",\N,\N,"65","81183247","763504","$2y$10$EXsjMphrr20tZAuL9kqkCu66FU8NXHMqNUKGLvzFTmDe6FDRqvdIm",\N,\N,\N,\N,\N,\N
+"78","1",\N,"mr","Alaister","Lim","alaisterlim@hotmail.com",\N,\N,"65","98762351","BC 3615","$2y$10$Tn6LWRG9ggxbTETLDz4SfOIyC0sG9CEIYBzCMp8N5l6bQ6SnaHNGy",\N,\N,\N,\N,\N,\N
+"79","1",\N,"mr","Bryan","Low","15017569@myrp.edu.sg",\N,\N,"65","94511958","520279","$2y$10$0h8Nkeex14pRWK6dI08h8u11wkyTLcquwPPHz3R7aY0IUcM4j.bme",\N,\N,\N,\N,\N,\N
+"80","1",\N,"ms","Jhoi","Peña","jhoicathlyn@gmail.com",\N,\N,"65","83567720","257856","$2y$10$J4OGOSFxqAGZ8siIlCZoV.SjozlsyGNZok3IdmfnC0QXldV8PUqGW",\N,\N,\N,\N,\N,\N
+"81","1",\N,"ms","Lee","Ling Ling","lllee2110@gmail.com",\N,\N,"65","84870409","529596","$2y$10$CUVgRzhhcWBHyeBi1P01KuTN24VCEO1bMCFZoWhnf7TqMiZaGmY9m",\N,\N,\N,\N,\N,\N
+"82","1",\N,"ms","Lee","Ling Ling","ling1528@yahoo.com",\N,\N,"65","84890409","529596","$2y$10$l6OpQEUMxwEpmGjl6VLaKuEkLJPbUvOhQ1OzWyXt.874eJWI7jlU6",\N,\N,"lsiHDeVoVvBYbRoxiwEBUF6oH89SRn8ZeOrApBskyRKrbIEGnuzTkb4v6wMG",\N,\N,\N
+"83","1",\N,"ms","Melissa","Yip","melissayipyokefong@gmail.com",\N,\N,"65","81256509","550512","$2y$10$xilljK35PCgXePlW53a/LedptFxp9pilw6dRQBP9oU45tonR1auTG",\N,\N,\N,\N,\N,\N
+"84","1",\N,"mr","Trueno","Ong","trueno_ady@hotmail.com",\N,\N,"65","97963378","670629","$2y$10$u9zZ64R4BO.TdC2Lnk4rleB42RrXK3qkh9KJmHESUxArfKGL/pL/W",\N,\N,\N,\N,\N,\N
+"85","1",\N,"ms","Vivian","Chung","vivian@artisanofsense.com",\N,\N,"65","82181378","797502","$2y$10$Fh9XdFVYyksiK./OOmCvEO0/sBTnFsaaEKr2aNtXjDCftPXTlxYRW",\N,\N,\N,\N,\N,\N
+"86","1",\N,"miss","Edna","Chai","edna.chai@gmail.com",\N,\N,"65","91790269","098418","$2y$10$hfANDjfVWEmx/yuEeTCpDu3dnp2OJkX7Bcuvd291vs9sl8kBNtuWy",\N,\N,"GccQQjyZl4qFdLf0YpoqOv3wDL7UU8HeZvmFjnwkmYH1FUupNlngHMgM2aBH",\N,\N,\N
+"89","1",\N,"Mr","Ang","Rui Xian","15041867myrp@gmail.com",\N,\N,"65","87981651","7301319","$2y$10$dt8PNxJ2okFXzBvlF4AAgu8oxbS9ljRcWOykxjx0zXKlzXouw69x2",\N,\N,"XIAq6NphxkGhXx1nYgVzYOg66Rs6AsdPQp3aJX7L9lcy7ZFjP0cyspNlYdXe",\N,"2017-10-30 09:26:27","2017-11-08 10:10:50"
+"90","1",\N,"Mr","RX","Ang","iiiangiii97@gmail.com",\N,\N,"65","87981651","730725","$2y$10$.UqmwOSWt67MxQEoTtm1e.Cj91mar9L6iHep1QOHBTc.BIpWZK/FS",\N,\N,"mX7mvEYne5qE9EYWzV7SvxZoDGU8Vjl2iCwVpvNTVn2vcwI4O5xXqkLN21cX",\N,"2017-11-01 11:33:25","2017-11-01 11:33:25"
+"91","1",\N,"Mr","Ang","Rui Xian","ruixian@gmail.com",\N,\N,"65","89188135","23909","$2y$10$3rVcd3XIJJwb7Cg8K0.nBeJ04lVvKxp3JIjn9zm4EqsN0KUhvhgQe",\N,\N,\N,\N,"2017-11-08 09:10:05","2017-11-08 09:10:05"
+"92","1",\N,"Mr","rui","xian","rrr@gmail.com",\N,\N,"65","8938","postal","$2y$10$e1YaumJeREAmpPqrV4N9g.2c7Se3gzU7SvNC.9Nul6rRKymTsraSG",\N,\N,\N,\N,"2017-11-08 09:11:31","2017-11-08 09:11:31"
+"93","1",\N,"Dr","Jason","Lim","jasonLim@gmail.com",\N,\N,"65","89218334","123411","$2y$10$58VvIivYk5pMsM4Zj2wIF.pReLQGLalSia0t3MVP9Y9rBQeyFU8bS",\N,\N,\N,\N,"2017-11-08 09:22:39","2017-11-08 09:22:39"
+"94","1",\N,"Mr","asdk","kajsd","aaa@hotmail.com",\N,\N,"65","9884139","19831","$2y$10$aV8KsRodGCOoUF.I98d0bufiWA/sr4mYp1vDKXjsGS6poY.HdA8rm",\N,\N,"BgkEF5C5w1u3kFAxuD5uPU769OvXunQL18ococPvdVZhfJf5D4XWjLwV0RDD",\N,"2017-11-08 09:24:07","2017-11-08 09:24:07"
+"97","1",\N,"Mr","Desiree","Wong","desiree.zing@me.com",\N,\N,"65","98635532","550412","$2y$10$51XwELHScih8aiSdNuP8WOegvGxf3bVQmomM5yaZZPVv1vLbfGtuu",\N,\N,\N,\N,"2017-11-21 13:59:43","2017-11-21 13:59:43"
+"226","1",\N,"Ms","Goh","Chloe","gohyulei@gmail.com",\N,\N,"65","91180562","640950","$2y$10$QlgjyOOpbRIaa76JZXJp3.uJjq0wFIVxAg.j/LyDp/gzfuKMvn0uK","7HPUvFL4NmPvHkpe4JO33rrKaH0yf64bD5O5kFPm",\N,\N,\N,"2018-01-10 20:07:51","2018-01-10 20:07:51"
+"243","1",\N,"Mr","Bryan","Low","bryanlowsk@gmail.com",\N,\N,"65","94511958","520279","$2y$10$XF/rtlz/5gjM3Xu042qUEekslvkKIeiPJ9y7Lvk7cTVlqtdKY0FRq","PFR8Qgp7pHq0KoSV91Ft308mSP2IU7XhTpAMle8n","1",\N,\N,"2018-01-11 18:01:44","2018-01-11 18:02:21"
